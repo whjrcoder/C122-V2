@@ -1,0 +1,14 @@
+date,text,emotion
+"Date:2/1/2022","hi there","anger"
+"Date:2/1/2022","hey","neutral"
+"Date:2/1/2022","i am happy today","happiness"
+"Date:2/1/2022","what should I do?","neutral"
+"Date:2/1/2022","I had lot of homework today. I could not get time to spend with the my friends.","worry"
+"Date:4/5/2023","i am happy today","happiness"
+"Date:4/5/2023","i had a bad day today","worry"
+"Date:9/5/2023"," i am happy","happiness"
+"Date:5/31/2023","I t was a good day","happiness"
+"Date:6/18/2023","It was a great day","happiness"
+
+"Date:6/18/2023","I am sad today","worry"
+"Date:6/18/2023","good day","neutral"
